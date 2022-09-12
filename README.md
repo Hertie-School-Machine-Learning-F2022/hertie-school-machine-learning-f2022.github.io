@@ -17,7 +17,7 @@ Below, you can find all the information regrading the labs.
 | Room        | 3.30          |
 | Format      | On site       |
 
-## Lab 1
+## Lab 1: Machine Learning for Government and Policy
 
 **Date: 09.09.2022**
 
@@ -109,7 +109,7 @@ Description
 
 **Problem Set 5:**  <br/><br/>
 
-## Lab 11
+## Lab 11: Multiple Testing
 
 **Date: 25.11.2022**
 
@@ -117,4 +117,4 @@ Description
 
 [Lab exercises]() <br/><br/>
 
-## Editing and changes will occur during the semester. For lab questions, please contact the TA. 
+_Editing and changes will occur during the semester. For lab questions, please contact the TA._

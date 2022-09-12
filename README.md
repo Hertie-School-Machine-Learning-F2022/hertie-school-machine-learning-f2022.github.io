@@ -37,31 +37,33 @@ Overview of loops in python. Together, code from scratch a simple k-means cluste
 
 **Problem Set 1:** 7 questions from the k-means cluster model that we coded in class, but students have to re-run the algorithm without the B- 1000 variable. <br/><br/>
 
-## Lab 3
+## Lab 3: End-to-End Machine Learning Project
 
 **Date: 23.09.2022**
 
-Description
+Sci-kit learn intro. Set X, y; introduce .fit .predict (Iris plants dataset). What is a pipeline, and create a simple pipeline. Pre-processing steps for numerical data (MinMaxScaler, StandardScaler)
 
-[Lab exercises]()
+[Lab exercises]() <br/><br/>
 
-## Lab 4
+## Lab 4: Machine Learning Landscape
 
 **Date: 30.09.2022**
 
-Description
+Introduce categorical data. Pre-processing steps for categorical data (ordinal encoding, one-hot encoding) using a fictional dataset with sex, state and age. Begin a pipeline with both numerical and categorical data and apply a logistic regression (Melbourn Housing datset).
 
 [Lab exercises]()
 
-## Lab 5
+**Problem Set 2:** 7 questions from the logistic regression pipeline that students have to finish setting up, that encompasses pre-processing for numerical and categorical, order of the pipeline and results. <br/><br/>
+
+## Lab 5: Linear Regression
 
 **Date: 07.10.2022**
 
-Description
+Linear regression problem formulation (Pinguin dataset). Set up a pipeline for Multivariate linear regression; fit and predict. Set up a pipeline for Polynomial linear regression; fit and predict. Discuss overfitting and underfitting; Talk about the bias-variance trade-off.
 
-[Lab exercises]()
+[Lab exercises]() <br/><br/>
 
-## Lab 6
+## Lab 6: Classification
 
 **Date: 14.10.2022**
 
@@ -69,15 +71,17 @@ Description
 
 [Lab exercises]()
 
-## Lab 7
+**Problem Set 3:** <br/><br/>
+
+## Lab 7: Resampling and regularisation
 
 **Date: 21.10.2022**
 
 Description
 
-[Lab exercises]()
+[Lab exercises]() <br/><br/>
 
-## Lab 8
+## Lab 8: Tree-based Methods
 
 **Date: 04.11.2022**
 
@@ -85,15 +89,17 @@ Description
 
 [Lab exercises]()
 
-## Lab 9
+**Problem Set 4:**  <br/><br/>
+
+## Lab 9: Deep Learning
 
 **Date: 11.11.2022**
 
 Description
 
-[Lab exercises]()
+[Lab exercises]() <br/><br/>
 
-## Lab 10
+## Lab 10: Unsupervised Learning
 
 **Date: 18.11.2022**
 
@@ -101,14 +107,14 @@ Description
 
 [Lab exercises]()
 
+**Problem Set 5:**  <br/><br/>
+
 ## Lab 11
 
 **Date: 25.11.2022**
 
 Description
 
-[Lab exercises]()
+[Lab exercises]() <br/><br/>
 
-
-
-
+## Editing and changes will occur during the semester. For lab questions, please contact the TA. 

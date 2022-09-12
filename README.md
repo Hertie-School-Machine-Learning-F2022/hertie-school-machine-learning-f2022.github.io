@@ -1,4 +1,4 @@
-# hertie-school-machine-learning-f2022.github.io
+# Hertie School - Intro to Machine Learning - Fall 2022
 Classes and notes for GRAD-C24 in Fall 2022, at Hertie School.
 
 TA: Paulina García Corral
@@ -15,7 +15,8 @@ Below, you can find all the information regrading the labs.
 
 The first lab assesses the group's Python level via a quiz, which we then answer together. We also set up Github for everybody. Problem Set 0 was sent to everyone via a link in moodle.
 
-Lab exercises -> https://github.com/Hertie-School-Machine-Learning-F2022/Class_Lab_01
+[Lab exercises](https://github.com/Hertie-School-Machine-Learning-F2022/Class_Lab_01)
+
 
 
 
@@ -27,7 +28,7 @@ Lab exercises -> https://github.com/Hertie-School-Machine-Learning-F2022/Class_L
 
 Description
 
-Lab exercises ->
+Lab exercises
 
 
 
@@ -39,6 +40,6 @@ Lab exercises ->
 
 Description
 
-Lab exercises ->
+Lab exercises
 
 

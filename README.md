@@ -35,7 +35,7 @@ Overview of loops in python. Together, we will go over the machine learning pipe
 
 [Lab exercises]()
 
-**Problem Set 1:** 7 questions from what we went through in class but students have to re-run the algorithm without the B variable. <br/><br/>
+**Problem Set 1:** 7 questions from what we went through in class with a new data set. <br/><br/>
 
 ## Lab 3: End-to-End Machine Learning Project
 

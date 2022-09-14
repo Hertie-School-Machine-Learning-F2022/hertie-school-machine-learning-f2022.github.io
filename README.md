@@ -31,11 +31,11 @@ The first lab assesses the group's Python level via a quiz, which we then answer
 
 **Date: 16.09.2022**
 
-Overview of loops in python. Together, code from scratch a simple k-means cluster using the boston_housing data. Examine boston_housing data, identify the year that it’s from, identify what the variables are, and talk about how that introduces bias in the model.
+Overview of loops in python. Together, we will go over the machine learning pipeline in broad terms using the boston_housing data. Examine boston_housing data, identify the year that it’s from, identify what the variables are, and talk about how that introduces bias in the model.
 
 [Lab exercises]()
 
-**Problem Set 1:** 7 questions from the k-means cluster model that we coded in class, but students have to re-run the algorithm without the B- 1000 variable. <br/><br/>
+**Problem Set 1:** 7 questions from class but students have to re-run the algorithm without the B- 1000 variable. <br/><br/>
 
 ## Lab 3: End-to-End Machine Learning Project
 

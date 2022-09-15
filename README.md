@@ -33,7 +33,7 @@ The first lab assesses the group's Python level via a quiz, which we then answer
 
 Overview of loops in python. Together, we will go over the machine learning pipeline in broad terms using the boston_housing data. Examine boston_housing data, identify the year that it’s from, identify what the variables are, and talk about how that introduces bias in the model.
 
-[Lab exercises]()
+[Lab exercises](https://github.com/Hertie-School-Machine-Learning-F2022/Class_Lab_02/blob/main/Class_Lab_02_GRAD_C24_fall_2022.ipynb)
 
 **Problem Set 1:** 7 questions from what we went through in class with a new data set. <br/><br/>
 

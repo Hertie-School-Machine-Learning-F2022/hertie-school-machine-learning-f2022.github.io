@@ -35,7 +35,7 @@ Overview of loops in python. Together, we will go over the machine learning pipe
 
 [Lab exercises](https://github.com/Hertie-School-Machine-Learning-F2022/Class_Lab_02/blob/main/Class_Lab_02_GRAD_C24_fall_2022.ipynb)
 
-**Problem Set 1:** 7 questions from what we went through in class with a new data set. <br/><br/>
+**Problem Set 1 was moved to next week** For more information please refer to the Moodle announcement.
 
 ## Lab 3: End-to-End Machine Learning Project
 
@@ -44,6 +44,7 @@ Overview of loops in python. Together, we will go over the machine learning pipe
 Sci-kit learn intro. Set X, y; introduce .fit .predict (Iris plants dataset). What is a pipeline, and create a simple pipeline. Pre-processing steps for numerical data (MinMaxScaler, StandardScaler)
 
 [Lab exercises]() <br/><br/>
+**Problem Set 1:** 7 questions from what we went through in class with a new data set. <br/><br/>
 
 ## Lab 4: Machine Learning Landscape
 

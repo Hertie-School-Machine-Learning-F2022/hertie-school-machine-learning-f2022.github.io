@@ -56,9 +56,11 @@ Introduce categorical data. Pre-processing steps for categorical data (ordinal e
 
 **Problem Set 2:** 7 questions from the logistic regression pipeline that students have to finish setting up, that encompasses pre-processing for numerical and categorical, order of the pipeline and results. <br/><br/>
 
+**No lab on 07.10.2022**<br/><br/>
+
 ## Lab 5: Linear Regression
 
-**Date: 07.10.2022**
+**Date: 14.10.2022**
 
 Linear regression problem formulation (Pinguin dataset). Set up a pipeline for Multivariate linear regression; fit and predict. Set up a pipeline for Polynomial linear regression; fit and predict. Discuss overfitting and underfitting; Talk about the bias-variance trade-off.
 
@@ -66,7 +68,7 @@ Linear regression problem formulation (Pinguin dataset). Set up a pipeline for M
 
 ## Lab 6: Classification
 
-**Date: 14.10.2022**
+**Date: 21.10.2022**
 
 Description
 
@@ -76,7 +78,7 @@ Description
 
 ## Lab 7: Resampling and regularisation
 
-**Date: 21.10.2022**
+**Date: 04.11.2022**
 
 Description
 
@@ -84,7 +86,7 @@ Description
 
 ## Lab 8: Tree-based Methods
 
-**Date: 04.11.2022**
+**Date: 11.11.2022**
 
 Description
 
@@ -94,7 +96,7 @@ Description
 
 ## Lab 9: Deep Learning
 
-**Date: 11.11.2022**
+**Date: 18.11.2022**
 
 Description
 
@@ -102,7 +104,7 @@ Description
 
 ## Lab 10: Unsupervised Learning
 
-**Date: 18.11.2022**
+**Date: 25.11.2022**
 
 Description
 
@@ -112,7 +114,7 @@ Description
 
 ## Lab 11: Multiple Testing
 
-**Date: 25.11.2022**
+**Date: 02.12.2022**
 
 Description
 

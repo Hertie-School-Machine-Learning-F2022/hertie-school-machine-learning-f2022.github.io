@@ -41,7 +41,7 @@ Overview of loops in python. Together, we will go over the machine learning pipe
 
 **Date: 23.09.2022**
 
-Sci-kit learn intro. Set X, y; introduce .fit .predict (Iris plants dataset). What is a pipeline, and create a simple pipeline. Pre-processing steps for numerical data (MinMaxScaler, StandardScaler)
+Continue with the Sci-kit learn intro. Talk about train and test sets, using Iris plants dataset. 
 
 [Lab exercises]() <br/><br/>
 **Problem Set 1:** 7 questions from what we went through in class with a new data set. <br/><br/>
@@ -50,7 +50,7 @@ Sci-kit learn intro. Set X, y; introduce .fit .predict (Iris plants dataset). Wh
 
 **Date: 30.09.2022**
 
-Introduce categorical data. Pre-processing steps for categorical data (ordinal encoding, one-hot encoding) using a fictional dataset with sex, state and age. Begin a pipeline with both numerical and categorical data and apply a logistic regression (Melbourn Housing datset).
+Pre-processing steps for numerical data (MinMaxScaler, StandardScaler) and categorical data (ordinal encoding, one-hot encoding). Begin a pipeline with both numerical and categorical data and apply a logistic regression (Melbourn Housing datset).
 
 [Lab exercises]()
 

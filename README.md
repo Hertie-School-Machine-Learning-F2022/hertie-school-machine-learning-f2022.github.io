@@ -43,7 +43,8 @@ Overview of loops in python. Together, we will go over the machine learning pipe
 
 Continue with the Sci-kit learn intro. Talk about train and test sets, using Iris plants dataset. 
 
-[Lab exercises]() <br/><br/>
+[Lab exercises](https://github.com/Hertie-School-Machine-Learning-F2022/Class_lab_03)
+
 **Problem Set 1:** 7 questions from what we went through in class with a new data set. <br/><br/>
 
 ## Lab 4: Machine Learning Landscape

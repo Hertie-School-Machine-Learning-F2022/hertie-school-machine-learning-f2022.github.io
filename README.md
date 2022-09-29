@@ -53,11 +53,11 @@ Continue with the Sci-kit learn intro. Talk about train and test sets, using Iri
 
 Pre-processing steps for numerical data (MinMaxScaler, StandardScaler) and categorical data (one-hot encoding). Begin a pipeline with both numerical and categorical data and apply a logistic regression (abalone datset).
 
-[Lab exercises]()
+[Lab exercises](https://github.com/Hertie-School-Machine-Learning-F2022/Class_lab_04)
 
 **Problem Set 2:** 7 questions from the logistic regression pipeline that students have to finish setting up, that encompasses pre-processing for numerical and categorical, order of the pipeline and results. <br/><br/>
 
-**No lab on 07.10.2022**<br/><br/>
+# **No lab on 07.10.2022**<br/><br/>
 
 ## Lab 5: Linear Regression
 

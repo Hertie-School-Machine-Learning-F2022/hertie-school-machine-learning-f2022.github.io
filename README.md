@@ -51,7 +51,7 @@ Continue with the Sci-kit learn intro. Talk about train and test sets, using Iri
 
 **Date: 30.09.2022**
 
-Pre-processing steps for numerical data (MinMaxScaler, StandardScaler) and categorical data (ordinal encoding, one-hot encoding). Begin a pipeline with both numerical and categorical data and apply a logistic regression (Melbourn Housing datset).
+Pre-processing steps for numerical data (MinMaxScaler, StandardScaler) and categorical data (one-hot encoding). Begin a pipeline with both numerical and categorical data and apply a logistic regression (abalone datset).
 
 [Lab exercises]()
 

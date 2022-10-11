@@ -55,7 +55,7 @@ Pre-processing steps for numerical data (MinMaxScaler, StandardScaler) and categ
 
 [Lab exercises](https://github.com/Hertie-School-Machine-Learning-F2022/Class_lab_04)
 
-**Problem Set 2:** 7 questions from the logistic regression pipeline that students have to finish setting up, that encompasses pre-processing for numerical and categorical, order of the pipeline and results. <br/><br/>
+**Problem Set 2:** 10 questions that explore the differences between preprocessing steps, and the application of a linear regression pipeline that students have to set up. <br/><br/>
 
 # **No lab on 07.10.2022**<br/><br/>
 

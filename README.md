@@ -63,6 +63,8 @@ Pre-processing steps for numerical data (MinMaxScaler, StandardScaler) and categ
 
 **Date: 14.10.2022**
 
+**This lab session will be held online, check moodle announcements for zoom links**
+
 Linear regression problem formulation (Pinguin dataset). Set up a pipeline for Multivariate linear regression; fit and predict. Set up a pipeline for Polynomial linear regression; fit and predict. Discuss overfitting and underfitting; Talk about the bias-variance trade-off.
 
 [Lab exercises]() <br/><br/>

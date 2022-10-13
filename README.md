@@ -65,9 +65,9 @@ Pre-processing steps for numerical data (MinMaxScaler, StandardScaler) and categ
 
 **This lab session will be held online, check moodle announcements for zoom links**
 
-Linear regression problem formulation (Pinguin dataset). Set up a pipeline for Multivariate linear regression; fit and predict. Set up a pipeline for Polynomial linear regression; fit and predict. Discuss overfitting and underfitting; Talk about the bias-variance trade-off.
+Linear regression problem formulation. Set up a pipeline for Simple and Multivariate linear regression; Introduce interactions and dummy variables into the model. Linear Regression metric scores discussed.
 
-[Lab exercises]() <br/><br/>
+[Lab exercises](https://github.com/Hertie-School-Machine-Learning-F2022/Class_lab_05) <br/><br/>
 
 ## Lab 6: Classification
 

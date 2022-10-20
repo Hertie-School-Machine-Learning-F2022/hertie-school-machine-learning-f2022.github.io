@@ -73,11 +73,11 @@ Linear regression problem formulation. Set up a pipeline for Simple and Multivar
 
 **Date: 21.10.2022**
 
-Description
+Logistic Regression for binary classification problems, with visulization to understand probability distributions and threshold for labels using the Penguin data set limited to two species. Additioanlly, metrics for classification problems are reviewed, focusing on imbalanced dataset, analyzing precision-recall plots and ROC Curve, using the blood donation dataset.
 
-[Lab exercises]()
+[Lab exercises](https://github.com/Hertie-School-Machine-Learning-F2022/Class_Lab_06)
 
-**Problem Set 3:** <br/><br/>
+**Problem Set 3: will be distributed after class** <br/><br/>
 
 ## Lab 7: Resampling and regularisation
 

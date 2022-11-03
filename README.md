@@ -83,7 +83,7 @@ Logistic Regression for binary classification problems, with visulization to und
 
 **Date: 04.11.2022**
 
-Description
+Explore underfitting and overfitting. Start with a decission tree regressor to observe overfitting, then use resampling strategies as training and testing, and CV to explor train error and test error on California Housing Dataset. Then understand regularization methods for decision tree using max depth and validation curve; Understand a different method, lasso for regression, using alpha to understand what regularization does, using advertising data set.
 
 [Lab exercises]() <br/><br/>
 

@@ -95,7 +95,7 @@ Understand how Decision Trees for classification and regression work, using the 
 
 [Lab exercises](https://github.com/Hertie-School-Machine-Learning-F2022/Class_Lab_08)
 
-**Problem Set 4:**  <br/>Submit the lab's excercises with the full descriptions and plots asked for in the script. One per team due on 17.11.2022 <br/>
+**Problem Set 4:**  <br/>Submit the lab's excercises on MOODLE with the full descriptions and plots asked for in the script. One per team due on 17.11.2022 <br/>
 
 ## Lab 9: Deep Learning
 

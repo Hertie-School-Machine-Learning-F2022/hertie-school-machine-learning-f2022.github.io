@@ -91,11 +91,10 @@ Explore underfitting and overfitting. Start with a decission tree regressor to o
 
 **Date: 11.11.2022**
 
-Description
-
+Understand how Decision Trees for classification and regression work, using the penguin dataset. Explore the different hyperparameters that can be tuned for a Decision Tree, and how that affects tree symetry. Then, a Random Forest example will be presented. Every part of the lab will have a excercise that has to be done in teams of 2 or 3. This excercises have to be finished after class.
 [Lab exercises]()
 
-**Problem Set 4:**  <br/><br/>
+**Problem Set 4:**  <br/>Submit the lab's excercises with full desription and plots asked in the script one per team. <br/>
 
 ## Lab 9: Deep Learning
 

@@ -101,9 +101,9 @@ Understand how Decision Trees for classification and regression work, using the 
 
 **Date: 18.11.2022**
 
-Description
+A simple Neural Networks from scratch to understand forward pass, activation function and gradient descent for Neural Networks for a binary classification problem. 
 
-[Lab exercises]() <br/><br/>
+[Lab exercises](https://github.com/Hertie-School-Machine-Learning-F2022/Class_Lab_09/blob/main/README.md) <br/><br/>
 
 ## Lab 10: Unsupervised Learning
 

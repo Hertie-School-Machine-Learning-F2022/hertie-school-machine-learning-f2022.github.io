@@ -109,11 +109,11 @@ A simple Neural Networks from scratch to understand forward pass, activation fun
 
 **Date: 25.11.2022**
 
-Description
+Understand the underlying implementation of PCA and K-means Clustering. Go over an example of how to integrate PCA into a Logistic Regression Pipeline, and how K-means can differ depending on the initialization.
 
-[Lab exercises]()
+[Lab exercises](https://github.com/Hertie-School-Machine-Learning-F2022/Class_Lab_10)
 
-**Problem Set 5:**  <br/><br/>
+**Problem Set 5:**  <br/>https://github.com/Hertie-School-Machine-Learning-F2022/Problem_Set_05<br/>
 
 ## Lab 11: Multiple Testing
 

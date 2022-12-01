@@ -121,6 +121,6 @@ Understand the underlying implementation of PCA and K-means Clustering. Go over 
 
 Review what a p-values is, an overview of what FDR is, and examine what type 1 errors in ML mean, and how to approach them with ROC and DET curves. 
 
-[Lab exercises]() <br/><br/>
+[Lab exercises]() <br/>https://github.com/Hertie-School-Machine-Learning-F2022/Class_Lab_11<br/>
 
 _Editing and changes will occur during the semester. For lab questions, please contact the TA._

@@ -119,7 +119,7 @@ Understand the underlying implementation of PCA and K-means Clustering. Go over 
 
 **Date: 02.12.2022**
 
-Description
+Review what a p-values is, an overview of what FDR is, and examine what type 1 errors in ML mean, and how to approach them with ROC and DET curves. 
 
 [Lab exercises]() <br/><br/>
 
